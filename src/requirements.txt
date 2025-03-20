@@ -25,3 +25,4 @@ Configuración de Matplotlib para asegurar rapidez y calidad en la generación d
 Conclusiones y Aplicaciones Prácticas
 El análisis de datos proporciona información clave para la toma de decisiones estratégicas en diversas áreas, tales como la optimización de inventario, segmentación de clientes, desarrollo de estrategias de marketing dirigidas y la implementación en Power BI para visualización y monitoreo en tiempo real.
 
+
