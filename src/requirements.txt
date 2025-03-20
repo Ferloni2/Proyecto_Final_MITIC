@@ -1,4 +1,4 @@
-#Análisis de Datos - PROYECTO_MITIC
+Análisis de Datos - PROYECTO_MITIC
 
 Carga y Preparación de Datos
 Para la manipulación y análisis de datos, se emplean las bibliotecas Pandas, Seaborn y Matplotlib. Los datos se importan desde un archivo CSV y se realiza una reestructuración del conjunto de datos para mejorar su comprensión y facilidad de uso.
