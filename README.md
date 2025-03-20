@@ -65,3 +65,10 @@ Se recomienda la adopción de modelos de series temporales para la predicción d
 
 ### Próximos Pasos
 Se prevé la implementación del análisis en Power BI para mejorar la representación visual de los datos y facilitar la toma de decisiones estratégicas basadas en información precisa y en tiempo real.
+
+### Datos del Proyecto  
+
+Los archivos de datos utilizados en este análisis son demasiado grandes para almacenarlos en GitHub.  
+
+Descargar datos desde Google Drive → https://drive.google.com/drive/folders/1ltUNiUOVJlsWm1Anb0UrtUl6TtPtQBmB?usp=sharing
+
