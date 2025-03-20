@@ -1,28 +1,28 @@
 #Análisis de Datos - PROYECTO_MITIC
 
-Carga y Preparación de Datos
-Para la manipulación y análisis de datos, se emplean las bibliotecas Pandas, Seaborn y Matplotlib. Los datos se importan desde un archivo CSV y se realiza una reestructuración del conjunto de datos para mejorar su comprensión y facilidad de uso.
+##Carga y Preparación de Datos
+-Para la manipulación y análisis de datos, se emplean las bibliotecas Pandas, Seaborn y Matplotlib. Los datos se importan desde un archivo CSV y se realiza una reestructuración del conjunto de datos para mejorar su comprensión y facilidad de uso.
 
-Optimización aplicada:
+#Optimización aplicada:
 
-Uso de la función pandas.read_csv() para una carga eficiente de datos.
-Renombrado de columnas para garantizar claridad y coherencia.
-Exploración inicial para la detección de valores nulos o inconsistencias.
-Exploración y Análisis de Datos.
-Se lleva a cabo un análisis detallado de las características principales del conjunto de datos, incluyendo el total de pedidos procesados, la distribución de ventas por ciudad y tipo de producto, y la identificación de patrones de compra según hora y mes.
+-Uso de la función pandas.read_csv() para una carga eficiente de datos.
+-Renombrado de columnas para garantizar claridad y coherencia.
+-Exploración inicial para la detección de valores nulos o inconsistencias.
+-Exploración y Análisis de Datos.
+-Se lleva a cabo un análisis detallado de las características principales del conjunto de datos, incluyendo el total de pedidos procesados, la distribución de ventas por ciudad y tipo de producto, y la identificación de patrones de compra según hora y mes.
 
-Optimización aplicada:
+#Optimización aplicada:
 
-Uso de la función describe() para obtener estadísticas clave de manera rápida.
-Análisis de variables categóricas y numéricas mediante visualizaciones optimizadas.
-Visualización de Datos y Patrones
-Para detectar tendencias y facilitar la interpretación de los datos, se generan gráficos optimizados de alto rendimiento. Se emplean gráficos de barras para visualizar las ventas totales por ciudad, gráficos de líneas para analizar el comportamiento de compra según horas y meses, y mapas de calor para identificar correlaciones entre variables.
+-Uso de la función describe() para obtener estadísticas clave de manera rápida.
+-Análisis de variables categóricas y numéricas mediante visualizaciones optimizadas.
+-Visualización de Datos y Patrones
+- Para detectar tendencias y facilitar la interpretación de los datos, se generan gráficos optimizados de alto rendimiento. Se emplean gráficos de barras para visualizar las ventas totales por ciudad,gráficos de líneas para analizar el comportamiento de compra según horas y meses, y mapas de calor para identificar correlaciones entre variables.
 
-Optimización aplicada:
+#Optimización aplicada:
 
-Uso de la biblioteca Seaborn para una representación visual eficiente y estilizada.
-Configuración de Matplotlib para asegurar rapidez y calidad en la generación de gráficos.
+-Uso de la biblioteca Seaborn para una representación visual eficiente y estilizada.
+-Configuración de Matplotlib para asegurar rapidez y calidad en la generación de gráficos.
 
-Conclusiones y Aplicaciones Prácticas:
+#Conclusiones y Aplicaciones Prácticas:
 
-El análisis de datos proporciona información clave para la toma de decisiones estratégicas en diversas áreas, tales como la optimización de inventario, segmentación de clientes, desarrollo de estrategias de marketing dirigidas y la implementación en Power BI para visualización y monitoreo en tiempo real.
+-El análisis de datos proporciona información clave para la toma de decisiones estratégicas en diversas áreas, tales como la optimización de inventario, segmentación de clientes, desarrollo de estrategias de marketing dirigidas y la implementación en Power BI para visualización y monitoreo en tiempo real.
