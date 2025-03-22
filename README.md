@@ -59,7 +59,8 @@ Se optimizó el análisis de datos, asegurando un procesamiento eficiente en tie
 - Implementación de Modelos Predictivos: Se recomienda la utilización de modelos de series temporales para la predicción de ventas futuras, lo que permitirá optimizar estrategias comerciales.
 
  Conclusiones
- El analisis de datos historicos de ventas realizado me permitio identificar patrones claves en la demanda, rentabilidad y comprotamiento de los productos y con el resultado permite optimizar las posibles estrategias y acciones a implementarse en marqueting.
+ 
+ El analisis de datos historicos de ventas realizado me permitio identificar patrones claves en la demanda, rentabilidad y comprotamiento de los productos y con el resultado permite optimizar las posibles estrategias y acciones a implementarse.
 
 
 ### Próximos Pasos
