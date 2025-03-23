@@ -12,12 +12,12 @@ Examinar un conjunto de datos mediante el análisis de datos históricos de vent
 - **Total de registros:** 185,950
 - **Número de columnas:** 9
 - **Ciudades analizadas:** 9
-- **Ciudad con mayor volumen de ventas:** New York City
-- **Ciudad con menor volumen de ventas:** San Francisco
+- **Ciudad con mayor volumen de ventas:** San Francisco
+- **Ciudad con menor volumen de ventas:** Austin
 - **Número de productos únicos:** 19
 - **Categoría de productos:** Electrónica y accesorios
 - **Producto más vendido:** USB-C Charging Cable
-- **Variables clave:** Fecha del pedido, producto, cantidad, precio, ciudad, total de ventas y hora de compra.
+- **Variables clave:** Fecha del pedido, producto, cantidad, precio, ciudad,meses, total de ventas y hora de compra.
 
 ---
 
@@ -42,7 +42,7 @@ Se optimizó el análisis de datos, asegurando un procesamiento eficiente en tie
 - **Número de pedidos:** 186,923
 
 ### Hallazgos Clave
-- **Ciudades con mayor volumen de ventas:** New York City y San Francisco.
+- **Ciudades con mayor volumen de ventas:** San Francisco.
 - **Hora con mayor cantidad de compras:** 19:00 horas.
 - **Franja horaria de mayor actividad comercial:** 18:00 - 20:00.
 - **Mes con mayor volumen de ventas:** Diciembre.
@@ -60,7 +60,7 @@ Se optimizó el análisis de datos, asegurando un procesamiento eficiente en tie
 
  Conclusiones
  
- El analisis de datos historicos de ventas realizado me permitio identificar patrones claves en la demanda, rentabilidad y comprotamiento de los productos y con el resultado permite optimizar las posibles estrategias y acciones a implementarse.
+El analisis de datos historicos de ventas realizado permitio identificar patrones claves en la demanda, rentabilidad y comprotamiento de los productos y con el resultado permite optimizar las posibles estrategias y acciones a implementarse.
 
 
 ### Próximos Pasos
