@@ -10,7 +10,7 @@ Examinar un conjunto de datos mediante el análisis de datos históricos de vent
 
 ### Descripción del Conjunto de Datos
 - **Total de registros:** 185,950
-- **Número de columnas:** 9
+- **Número de columnas:** 11
 - **Ciudades analizadas:** 9
 - **Ciudad con mayor volumen de ventas:** San Francisco
 - **Ciudad con menor volumen de ventas:** Austin
