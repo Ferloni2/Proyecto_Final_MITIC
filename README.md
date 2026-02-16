@@ -70,5 +70,4 @@ Se prevé la implementación del análisis en Power BI para mejorar la represent
 
 Los archivos de datos utilizados en este análisis son demasiado grandes para almacenarlos en GitHub.  
 
-Descargar datos desde Google Drive → https://drive.google.com/drive/folders/1ltUNiUOVJlsWm1Anb0UrtUl6TtPtQBmB?usp=sharing
-
+Descargar datos desde Google Drive →
